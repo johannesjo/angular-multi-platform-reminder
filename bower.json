@@ -1,0 +1,30 @@
+{
+  "name": "angular-multi-platform-reminder",
+  "description": "",
+  "version": "0.0.1",
+  "authors": [
+    "Johannes Millan <johannes.millan@gmail.com>"
+  ],
+  "homepage": "http://johannesjo.github.io/angular-multi-platform-reminder/",
+  "license": "LGPL-2.1",
+  "main": "dist/ng-mp-reminder.min.js",
+  "keywords": [
+    "angular",
+    "AngularJS",
+    "remimder",
+    "cordova",
+    "hybrid"
+  ],
+  "ignore": [
+    "gh-pages",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-beta.14"
+  }
+}
